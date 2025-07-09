@@ -45,3 +45,23 @@ Useful Shortcut
 - Ctrl + Shift + > : Find glyph
 - Ctrl + u : Unlink reference (ungroup dot(s) from character)
 - Ctrl + i : Glyph info
+
+# Todo
+1. Update font file
+- [x] Thuluth
+- [ ] Naskh
+- [ ] Riqaa
+- [ ] Nastaliq
+- [ ] Diwani
+- [ ] Kufi
+- [ ] Amiri
+
+2. Generate dataset
+- [ ] Thuluth
+- [ ] Naskh
+- [ ] Riqaa
+- [ ] Nastaliq
+- [ ] Diwani
+- [ ] Kufi
+- [ ] Amiri
+
