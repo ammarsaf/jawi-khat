@@ -46,6 +46,19 @@ Useful Shortcut
 - Ctrl + u : Unlink reference (ungroup dot(s) from character)
 - Ctrl + i : Glyph info
 
+Unicode refernce:
+| Character | Glyph | Unicode |
+| ----------| ------ | ---------- |
+| pa | ڤ | U+06A4 | 
+| nga | ڠ	 | U+06A0 | 
+| va | ﯛ | U+06CF | 
+| nya | ڽ | U+06BD | 
+| ga | ڬ | U+06AC | 
+
+Test phrase:
+ڤاڤيڤڤ ڬاݢيڬڬ ڠاڠيباڠ ۏاۏيۏڤ ڽاڽيڽيو
+
+
 # Todo
 1. Update font file
 - [x] Thuluth
